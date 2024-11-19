@@ -10,9 +10,10 @@
 &nbsp;
 &nbsp;
 &nbsp;
-- 👀 I'm currently studying for my Security+ cert
-- 👓 Check out some of my coding projects
-- ✒️ Reach me here or send me an email
+### 👀 Recently obtained my Sec+ cert...
+### 💥 Now working on improving python skills...
+### 👓 Check out some of my coding projects
+### ✒️ Reach me here or send me an email
 &nbsp;
 &nbsp;
 &nbsp;
