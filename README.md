@@ -10,8 +10,9 @@
 &nbsp;
 &nbsp;
 &nbsp;
-### 👀 Recently obtained my Sec+ cert...
-### 💥 Now working on improving python skills...
+### 🎄 Deep diving into React for the holidays...
+### 🍕 To-do app was neat
+### 👀 Recently obtained my Sec+ cert
 ### 👓 Check out some of my coding projects
 ### ✒️ Reach me here or send me an email
 &nbsp;
