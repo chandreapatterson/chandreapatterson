@@ -10,8 +10,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-### 🎄 Deep diving into React for the holidays...
-### 🍕 To-do app was neat
+### 🎄 now playing rock, paper, scissors (java)...
 ### 👀 Recently obtained my Sec+ cert
 ### 👓 Check out some of my coding projects
 ### ✒️ Reach me here or send me an email
