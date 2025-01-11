@@ -10,8 +10,7 @@
 &nbsp;
 &nbsp;
 &nbsp;
-### 🎄 now playing rock, paper, scissors (java)...
-### 👀 Recently obtained my Sec+ cert
+### 💭 Currently pondering AI sentience...
 ### 👓 Check out some of my coding projects
 ### ✒️ Reach me here or send me an email
 &nbsp;
